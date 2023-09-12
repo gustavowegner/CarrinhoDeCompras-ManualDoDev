@@ -13,10 +13,10 @@ Utilizei o canal do Manual do Dev como referência para está primeira parte do 
 - Remoção de produtos do carrinho: possibilita remover produtos do carrinho de compras.
 
 # Tecnologias utilizadas
-React JS: biblioteca JavaScript para construção de interfaces de usuário.
-HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
-CSS3: linguagem de estilo para estilizar a interface do usuário.
-API do Mercado Livre: utilizada para obter dados de produtos.
+- React JS: biblioteca JavaScript para construção de interfaces de usuário.
+- HTML5: linguagem de marcação para estruturar o conteúdo da aplicação.
+- CSS3: linguagem de estilo para estilizar a interface do usuário.
+- API do Mercado Livre: utilizada para obter dados de produtos.
 
 # Canal utilizado como referência.
 
