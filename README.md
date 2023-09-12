@@ -19,4 +19,6 @@ CSS3: linguagem de estilo para estilizar a interface do usuário.
 API do Mercado Livre: utilizada para obter dados de produtos.
 
 # Canal utilizado como referência.
-<a href="https://www.youtube.com/playlist?list=PLdtmpu_1ITQKuHMG4s0wUMa55OdsYeWw0"> Playlist do Projeto. </a>
+
+[Playlist do Projeto](https://www.youtube.com/playlist?list=PLdtmpu_1ITQKuHMG4s0wUMa55OdsYeWw0)
+
